@@ -1,0 +1,80 @@
+.pic{
+    display: block;
+    max-width: 90%;
+    height: 200px;
+}
+html{
+
+    background-color:grey;
+}
+#playlist a:hover {
+    font-size:18px;
+    color: #f2dd90;
+}
+h1{
+    color: #f2dd90;
+    font-size: 25pt
+;
+}
+#albums{
+    display: inline-block;
+    width: 30%;
+    border: solid black 3px;
+    color: black;
+    background-color: #cdfeff;
+
+
+}
+#albums a{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    font-size: 18px;
+    margin-top: 30px;
+
+}
+#albums li{
+    list-style-type: none;
+}
+#vid{
+    float: left;
+    width: 60%;
+}
+#playlist{
+    margin-top: -350px;
+    display: block;
+}
+#fest{
+    display: block;
+    margin-top: 500px;
+}
+.but{
+border: solid lightgray 2px ;
+    padding: 5px;
+
+}
+.but a {
+    color: #093849;
+}
+.but:hover{
+    font-size:18px;
+    color: #f2dd90;
+    }
+article{
+    margin: 10px;
+}
+#puk{
+    background-color: skyblue;
+}
+#rock{
+    background-color: orange;
+}
+#to{
+    background-color: pink;
+}
+#grass{
+    background-color: lightgreen;
+}
+#do{
+    background-color: lightgoldenrodyellow;
+}

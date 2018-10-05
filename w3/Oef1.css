@@ -1,0 +1,20 @@
+html{
+    background-color: #c7ced8;
+    color: white;
+}
+thead{
+    background-color: #27426d;
+}
+tfoot{
+    background-color: #27426d;
+}
+tbody tr:nth-child(even){
+    background-color: #6facff;
+}
+tbody tr:nth-child(odd){
+    background-color: #4f8cef;
+}
+td{
+    text-align: center;
+    width: 120px;
+}

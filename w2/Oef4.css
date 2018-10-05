@@ -1,0 +1,15 @@
+html{
+    background-color: gainsboro;
+}
+article{
+    background-color: lightslategray;
+    color: white;
+    width: 90%;
+    margin: 15px;
+    padding: 10px;
+}
+header{
+    color: forestgreen;
+    font-weight: bold;
+    font-size:34pt ;
+}

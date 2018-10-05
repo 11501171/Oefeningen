@@ -1,0 +1,24 @@
+html{
+    background-color: gainsboro;
+}
+article{
+    background-color: lightslategray;
+    color: white;
+
+    margin: 15px;
+    padding: 10px;
+}
+header{
+    color: forestgreen;
+    font-weight: bold;
+    font-size:34pt ;
+}
+.highlight{
+    color: yellow;
+    border:solid yellow 2px;
+   margin-left: 20%;
+    margin-right: 20%;
+}
+.highlight *{
+    text-align: center;
+}

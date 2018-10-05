@@ -1,0 +1,40 @@
+.grey{
+   background-image: url("img/zwarte-marmer.jpg");
+}
+td{
+    background-image: url("img/witte-marmer.jpg");
+
+    width: 100px;
+  height: 100px;
+
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50%;
+
+}
+html{
+    background-image: url("img/hout.jpg");
+}
+table{
+    background-color: darkred;
+    border: darkred 5px solid;
+    display: inline-block;
+}
+section{
+    border: darkred 5px solid;
+    background-image: url("img/witte-marmer.jpg");
+    display: inline-block;
+    float: right;
+margin-top: 5px;
+    margin-right: 35%;
+
+    width: 300px;
+   height: 550px;
+}
+section p{
+    font-size: 18pt;
+}
