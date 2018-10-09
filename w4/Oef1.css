@@ -1,0 +1,29 @@
+section{
+    display: inline-block;
+    box-sizing: border-box;
+    border: #958a4b solid 5px;
+   /* min-width: 200px;
+  /*  max-width: 25%;/*calc(25%- 10px)*/
+    margin: 5px;
+    align-content: center;
+    padding: 5px;
+    max-width:calc(25%- 10px);
+}
+img{
+    height: 150px;
+
+    display: block;
+    width: auto;
+   margin: 0 auto;
+
+}
+audio{
+margin-top: 5px;
+}
+body{
+    background-color: #151b27;
+}
+h1{
+color: #fde049;
+    text-align: center;
+}
